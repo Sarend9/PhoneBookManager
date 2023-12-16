@@ -1,0 +1,22 @@
+[
+  {
+    "first_name": "\u041a\u0443\u0437\u0438\u043d",
+    "last_name": "\u0410\u043d\u0442\u043e\u043d",
+    "phone_number": "8 800 555 35 35"
+  },
+  {
+    "first_name": "\u0418\u0432\u0430\u043d",
+    "last_name": "\u0418\u0432\u0430\u043d\u043e\u0432",
+    "phone_number": "23-456-7890"
+  },
+  {
+    "first_name": "\u041c\u0430\u0440\u0438\u044f",
+    "last_name": "\u041f\u0435\u0442\u0440\u043e\u0432\u0430",
+    "phone_number": "987-654-3210"
+  },
+  {
+    "first_name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439",
+    "last_name": "\u0421\u0438\u0434\u043e\u0440\u043e\u0432",
+    "phone_number": "555-123-4567"
+  }
+]
