@@ -68,7 +68,7 @@ class PhoneBookApp(QWidget):
                 background-color: #F5F5F5;
             }
 
-            QLabel#headerLabel {
+            QLabel {
                 font-weight: bold;
                 color: #4A4A4A;
             }
@@ -76,7 +76,6 @@ class PhoneBookApp(QWidget):
             QListWidget {
                 background-color: #FFFFFF;
                 border: 1px solid #D1D1D1;
-                border-radius: 10px;
                 color: #333333;
             }
 
@@ -86,7 +85,6 @@ class PhoneBookApp(QWidget):
 
             QLineEdit {
                 border: 2px solid #BDBDBD;
-                border-radius: 8px;
                 background-color: #F0F0F0;
                 color: #333333;
                 padding: 8px;
@@ -95,7 +93,6 @@ class PhoneBookApp(QWidget):
             QPushButton {
                 margin-top: 5px;
                 border: 2px solid #6D7B8D;
-                border-radius: 10px;
                 background-color: #6D7B8D;
                 color: #FFFFFF;
                 padding: 10px;
@@ -110,7 +107,7 @@ class PhoneBookApp(QWidget):
                 color: #FFFFFF;
             }
         ''')
-
+        
         self.setLayout(self.layout)
         self.setWindowTitle("Телефонный справочник")
 
